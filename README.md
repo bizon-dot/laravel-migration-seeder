@@ -7,7 +7,8 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## 
+## laravel-migration-seeder
 
--[ ]create una tabella per i pacchetti di viaggio organizzati da un'agenzia turistica.
--[ ]Dopo averne definito la struttura tramite una migration, inserite dei dati pseudo-reali tramite la classe Faker
+- [ ]create una tabella per i pacchetti di viaggio organizzati da un'agenzia turistica.
+
+- [ ]Dopo averne definito la struttura tramite una migration, inserite dei dati pseudo-reali tramite la classe Faker
