@@ -9,7 +9,7 @@
 
 ## laravel-migration-seeder
 
-- [ X ] Creare una tabella per i pacchetti di viaggio organizzati da un'agenzia turistica.
+- [X] Creare una tabella per i pacchetti di viaggio organizzati da un'agenzia turistica.
 
-- [ X ] Dopo averne definito la struttura tramite una migration, inserite dei dati pseudo-reali tramite la classe Faker
+- [X] Dopo averne definito la struttura tramite una migration, inserite dei dati pseudo-reali tramite la classe Faker
 
